@@ -517,7 +517,7 @@ section {
   justify-content: flex-start;
 }
 
-/*Independed components*/
+/*Independent components*/
 .btn-con {
   display: flex;
   align-self: flex-start;
@@ -858,6 +858,10 @@ section {
   .main-title h2 .bg-text {
     font-size: 4rem;
   }
+}
+
+button {
+  background-color: var(--color-secondary);
 }
 
 /*# sourceMappingURL=styles.css.map */
